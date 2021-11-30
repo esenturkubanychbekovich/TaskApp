@@ -6,6 +6,11 @@ public class News implements Serializable {
     private String title;
     private long createdAt;
 
+
+    public News(String title) {
+        this.title = title;
+    }
+
     public News(String title, long createdAt) {
         this.title = title;
         this.createdAt = createdAt;

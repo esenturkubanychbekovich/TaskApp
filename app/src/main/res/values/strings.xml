@@ -8,4 +8,5 @@
     <string name="btn_save">Save</string>
     <string name="profile">Profile</string>
     <string name="open_gallery">Take Photo</string>
+    <string name="news_title">Title</string>
 </resources>
